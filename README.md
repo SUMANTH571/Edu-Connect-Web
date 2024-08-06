@@ -1,5 +1,5 @@
 ## Description 
-In this project, we provide a platform that gives students access to a
+In this project, we provided a platform that gives students access to a
 range of classes and educational materials. The same platform allows
 instructors to set up and manage courses, track student development, and
 provide help and feedback. Students can interact with one another on the
